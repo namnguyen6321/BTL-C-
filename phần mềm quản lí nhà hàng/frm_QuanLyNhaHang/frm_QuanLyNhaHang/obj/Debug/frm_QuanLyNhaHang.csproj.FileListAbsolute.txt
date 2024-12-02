@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\bin\Debug\frm_QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\bin\Debug\frm_QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\bin\Debug\frm_QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.fLogin.resources
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.fTableManager.resources
+C:\Users\Admin\Desktop\phần mềm quản lí nhà hàng\frm_QuanLyNhaHang\frm_QuanLyNhaHang\obj\Debug\frm_QuanLyNhaHang.fAccountProfile.resources
